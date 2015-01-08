@@ -7,9 +7,16 @@ public class Stuff {
 		
 		poore();
 		jacob();
+		rich();
 		
 	}
 
+	public static void rich()
+	{
+		System.out.println("Sup");
+	}
+	
+	
 	public static void poore()
 	{
 		System.out.println("Mr. Poore");

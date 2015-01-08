@@ -6,6 +6,7 @@ public class Stuff {
 	
 		
 		poore();
+		jacob();
 		
 	}
 
@@ -13,7 +14,10 @@ public class Stuff {
 	{
 		System.out.println("Mr. Poore");
 	}
-	
+	public static void jacob()
+	{
+		System.out.println("Mr. Jacob");
+	}
 	
 	
 }

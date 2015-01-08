@@ -6,7 +6,7 @@ public class Stuff {
 	
 		
 		poore();
-		norwood();	
+		
 	}
 
 	public static void poore()
@@ -14,8 +14,7 @@ public class Stuff {
 		System.out.println("Mr. Poore");
 	}
 	
-	public static void norwood()
-	{
-		System.out.println("Collin Norwood");
-	}
+	
+	
+}
 

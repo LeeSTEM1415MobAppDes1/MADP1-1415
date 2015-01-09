@@ -6,14 +6,17 @@ public class Stuff {
 	
 		
 		poore();
-		
+		john();
 	}
 
 	public static void poore()
 	{
 		System.out.println("Mr. Poore");
 	}
-	
+	public static void john()
+	{
+		System.out.println("Dunkmaster");
+	}
 	
 	
 }

@@ -6,7 +6,7 @@ public class Stuff {
 	
 		inessa();
 		poore();
-		
+		norwood();	
 	}
 
 	public static void poore()
@@ -14,9 +14,16 @@ public class Stuff {
 		System.out.println("Mr. Poore");
 	}
 	
+<<<<<<< HEAD
 	public static void inessa()
 	{
 		System.out.println("Hi");
 	}
 }
+=======
+	public static void norwood()
+	{
+		System.out.println("Collin Norwood");
+	}
+>>>>>>> branch 'master' of https://github.com/LeeSTEM1415MobAppDes1/MADP1-1415.git
 

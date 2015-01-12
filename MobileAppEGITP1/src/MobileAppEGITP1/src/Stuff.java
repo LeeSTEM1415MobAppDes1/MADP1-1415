@@ -8,9 +8,22 @@ public class Stuff {
 		poore();
 		jacob();
 		rich();
+		john();
+		norwood();
 		
 	}
 
+		public static void john()
+		{
+			System.out.println("Dunkmaster");
+		}
+		
+		public static void norwood()
+			{
+				System.out.println("Collin Norwood");
+			}
+		
+		
 	public static void rich()
 	{
 		System.out.println("Sup");

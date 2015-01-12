@@ -8,6 +8,7 @@ public class Stuff {
 		poore();
 		jacob();
 		rich();
+		A();
 		john();
 		norwood();
 		
@@ -22,7 +23,10 @@ public class Stuff {
 			{
 				System.out.println("Collin Norwood");
 			}
-		
+		public static void A()
+		{
+			System.out.println("beefboy69");
+		}
 		
 	public static void rich()
 	{

@@ -31,6 +31,7 @@ public class Stuff {
 	public static void rich()
 	{
 		System.out.println("Sup");
+		System.out.println("What's Up?");
 	}
 	
 	

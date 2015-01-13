@@ -10,8 +10,12 @@ public class Stuff {
 		rich();
 		john();
 		norwood();
-		
-	}
+		jessica();
+	}    
+		public static void jessica()
+		{
+			System.out.println("Jessica");
+		}
 
 		public static void john()
 		{

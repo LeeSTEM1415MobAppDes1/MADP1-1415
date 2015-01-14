@@ -11,8 +11,12 @@ public class Stuff {
 		A();
 		john();
 		norwood();
-		
-	}
+		jessica();
+	}    
+		public static void jessica()
+		{
+			System.out.println("Jessica");
+		}
 
 		public static void john()
 		{
@@ -31,6 +35,7 @@ public class Stuff {
 	public static void rich()
 	{
 		System.out.println("Sup");
+		System.out.println("What's Up?");
 	}
 	
 	

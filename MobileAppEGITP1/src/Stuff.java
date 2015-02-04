@@ -12,6 +12,7 @@ public class Stuff {
 		gustavo();
 		john();
 		norwood();
+		gutierrez();
 		jessica();
 	}    
 		public static void jessica()
@@ -52,6 +53,13 @@ public class Stuff {
 	{
 		System.out.println("Mr. Jacob");
 	}
+	
+
+	public static void gutierrez()
+	{
+		System.out.println("Gy");
+	}
+
 	
 	
 }

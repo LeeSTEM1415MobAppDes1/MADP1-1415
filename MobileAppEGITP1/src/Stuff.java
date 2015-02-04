@@ -9,6 +9,7 @@ public class Stuff {
 		jacob();
 		rich();
 		A();
+		gustavo();
 		john();
 		norwood();
 		jessica();
@@ -21,6 +22,10 @@ public class Stuff {
 		public static void john()
 		{
 			System.out.println("Dunkmaster");
+		}
+		public static void gustavo()
+		{
+			System.out.println("Gustavo");
 		}
 		
 		public static void norwood()
